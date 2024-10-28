@@ -26,14 +26,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   des données météorologiques et géologiques, nous offrons aux collectivités 
   des solutions simples et précises de cartographie pour recenser les sinistres sécheresses 
   survenus dans des communes et justifier l'état de catastrophe naturelle.
-baseurl: "/lacert.ai" # the subpath of your site, e.g. /blog
+baseurl: "/website.lacert.ai" # the subpath of your site, e.g. /blog
 domain: r3b3-888.github.io
-url: "https://r3b3-888.github.io/lacert.ai" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://r3b3-888.github.io/website.lacert.ai" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  r3b3-888
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
